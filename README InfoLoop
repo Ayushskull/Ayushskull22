@@ -1,0 +1,87 @@
+InfoLoop News App
+
+infoLoop is a web-based news application that provides users with the latest news articles from various sources using the GNews API. It is built with HTML, CSS, and JavaScript, offering a simple and user-friendly interface for browsing trending news.
+
+🚀 Features
+
+Fetches real-time news articles using GNews API
+
+Categorized news sections (e.g., Technology, Business, Sports, Entertainment)
+
+Responsive design for mobile and desktop users
+
+Search functionality to find specific news topics
+
+User-friendly interface with smooth UI/UX
+
+🛠 Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+API: GNews.io
+
+Hosting: (Specify if using Netlify, GitHub Pages, Vercel, etc.)
+
+📦 Installation & Setup
+
+Follow these steps to set up the project locally:
+
+Clone the Repository:
+
+git clone https://github.com/Ayushskull/infoLoop.git
+cd infoLoop
+
+Get GNews API Key:
+
+Sign up at GNews.io
+
+Generate an API key
+
+Configure API Key:
+
+Open script.js
+
+Replace’YOUR_API_KEY' with your actual GNews API key:
+
+const API_KEY = 'YOUR_API_KEY';
+
+Run the App:
+
+Simply open index.html in a browser.
+
+Or use a local server like VS Code Live Server.
+
+📌 Usage
+
+Open the app and browse through the latest news.
+
+Click on a news article to read more.
+
+Use the search bar to find news related to specific topics.
+
+🔥 Future Enhancements
+
+Dark mode feature
+
+User authentication for personalized news feed
+
+Bookmarking and saving favorite articles
+
+Multi-language support
+
+📜 License
+
+This project is licensed under the MIT License.
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repo and submit pull requests.
+
+📧 Contact
+
+For any queries or collaborations, reach out via:
+
+GitHub: Ayushskull
+
+Email: ayushskull22@gmail.com
+
